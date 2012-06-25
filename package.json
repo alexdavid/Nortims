@@ -1,0 +1,22 @@
+{
+  "name": "Nortims",
+  "version": "0.0.1",
+  "description": "Nortims allows multiple clients listen to the same mp3 stream at the same time.",
+  "main": "nortims.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "priority-queue": "~1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexdavid/Nortims.git"
+  },
+  "author": "Alex David",
+  "license": "BSD"
+}
